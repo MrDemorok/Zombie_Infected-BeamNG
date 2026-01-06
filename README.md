@@ -1,6 +1,6 @@
 # English:
 
-# BeamMP Outbreak/Infection
+## BeamMP Outbreak/Infection
 
 This is a recreation of the Infection game mode from Dirt 3 for BeamMP
 
@@ -27,7 +27,7 @@ This is a recreation of the Infection game mode from Dirt 3 for BeamMP
 
 # Polski:
 
-# BeamMP Outbreak/Infection
+## BeamMP Outbreak/Infection
 
 Jest to odtworzenie trybu gry Infection z gry Dirt 3 dla BeamMP.
 
