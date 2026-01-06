@@ -1,4 +1,4 @@
-English:
+# English:
 
 # BeamMP Outbreak/Infection
 
@@ -25,7 +25,7 @@ This is a recreation of the Infection game mode from Dirt 3 for BeamMP
 10. ```/infection ResetAtSpeedAllowed toggle``` This toggles whether players can reset at speed
 11. ```/infection MaxResetSpeed set``` Sets the highest speed where resets are allowed
 
-Polski:
+# Polski:
 
 # BeamMP Outbreak/Infection
 
